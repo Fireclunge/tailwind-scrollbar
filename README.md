@@ -1,3 +1,7 @@
+# PLEASE DO NOT USE THIS FORK - [PERSONAL USE ONLY] - I PLAN ON DELETING IT WHEN TAILWIND 4.0 SUPPORT IS RELEASED
+
+
+
 # Scrollbar Plugin for Tailwind CSS
 ![Tests](https://github.com/adoxography/tailwind-scrollbar/workflows/Tests/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/af892fe4afc048c4860462c5fc736675)](https://www.codacy.com/gh/adoxography/tailwind-scrollbar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=adoxography/tailwind-scrollbar&amp;utm_campaign=Badge_Grade)
